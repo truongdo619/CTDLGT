@@ -1,0 +1,16 @@
+2,3.
+-Error: Main method not found in class TenHelloWorlds, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+- Error: Main method is not static in class TenHelloWorlds, please define the main method as:
+   public static void main(String[] args)
+
+- Error: Main method not found in class TenHelloWorlds, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+- Error: Main method not found in class TenHelloWorlds, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+7.you forgot the String[] args. It is required.
