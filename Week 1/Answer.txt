@@ -13,4 +13,4 @@ or a JavaFX application class must extend javafx.application.Application
    public static void main(String[] args)
 or a JavaFX application class must extend javafx.application.Application
 
-7.you forgot the String[] args. It is required.
+7.you forgot the String[] args. It is required
